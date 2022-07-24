@@ -26,7 +26,7 @@ if anyother image unsigned remove that aswell:
 
 $ sudo apt remove linux-image-unsigned-5.4.0-1086-azure
 
-# During the process you confirm with '**No**' that you do not want to abort the removal process:
+During the process you confirm with '**No**' that you do not want to abort the removal process:
 
 Kernel removal confirmation window
 
