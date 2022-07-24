@@ -5,4 +5,4 @@
 3. On the Manage Account tab, click **`Edit`** Account.
 4. Provide the updated password, and click **`OK`**. The account should have the privileges summarized in the account permissions table.
 
-Note: It takes about 15 minutes to synchronize account information with Site Recovery.
+**`Note: It takes about 15 minutes to synchronize account information with Site Recovery.`**
