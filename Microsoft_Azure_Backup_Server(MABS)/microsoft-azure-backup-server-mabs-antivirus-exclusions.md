@@ -32,3 +32,6 @@
 * `C:\Progam Files\Microsoft Azure Backup Server\DPM\MARS\Microsoft Azure Recovery Services Agent\bin`
 * `C:\Program Files\Microsoft Azure Backup Server\DPM\DPM\Cache (*MABS scratch folder)`
 
+# Delete infected files on the MABS server
+
+You should configure to **delete infected files by default** on the MABS servers, **rather than automatically cleaning or quarantining them**. Automatic cleaning and quarantining can result in data corruption because these processes cause the antivirus software to modify files, making changes MABS cannot detect.
