@@ -1,10 +1,10 @@
 # Microsoft Azure Backup Server (MABS) : Antivirus Exclusions
 
-    Running a solid, constantly updated antivirus product on your servers, like your Microsoft Azure Backup Sever (MABS) v3, is a necessity to keep a healthy and secure server environment.
+1. Running a solid, constantly updated antivirus product on your servers, like your Microsoft Azure Backup Sever (MABS) v3, is a necessity to keep a healthy and secure server environment.
 
-    However, with installing an antivirus product, you also risk having issues with certain workloads and services on those severs. Just like System Center Data Protection Manager (SCDPM), MABS is compatible with most antivirus software products. Though, these antivirus products can also affect MABS performance and, if not configured properly, can cause data corruption of replicas and recovery points.
+2. However, with installing an antivirus product, you also risk having issues with certain workloads and services on those severs. Just like System Center Data Protection Manager (SCDPM), MABS is compatible with most antivirus software products. Though, these antivirus products can also affect MABS performance and, if not configured properly, can cause data corruption of replicas and recovery points.
 
-    To avoid file conflicts and to minimize performance degradation between your MABS server and the antivirus software running on top of it, disable real-time monitoring by the antivirus software for the following processes and directories, which are all listed below.
+3. To avoid file conflicts and to minimize performance degradation between your MABS server and the antivirus software running on top of it, disable real-time monitoring by the antivirus software for the following processes and directories, which are all listed below.
 
 **MABS processes to exclude from antivirus real-time monitoring**
 
