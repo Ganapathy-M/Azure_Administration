@@ -27,8 +27,8 @@
 `Be aware that when you installed MABS on another drive then “C:”, like in the example below, look under the correct drive for the folders to exclude`
 
 * `C:\Program Files\Microsoft Azure Backup Server\DPM\DPM\Temp\MTA\*`
-`* C:\Program Files\Microsoft Azure Backup Server\DPM\DPM\XSD\*`
-* C:\Program Files\Microsoft Azure Backup Server\DPM\DPM\bin
-* C:\Progam Files\Microsoft Azure Backup Server\DPM\MARS\Microsoft Azure Recovery Services Agent\bin
-* C:\Program Files\Microsoft Azure Backup Server\DPM\DPM\Cache (*MABS scratch folder)
+* `C:\Program Files\Microsoft Azure Backup Server\DPM\DPM\XSD\*`
+* `C:\Program Files\Microsoft Azure Backup Server\DPM\DPM\bin`
+* `C:\Progam Files\Microsoft Azure Backup Server\DPM\MARS\Microsoft Azure Recovery Services Agent\bin`
+* `C:\Program Files\Microsoft Azure Backup Server\DPM\DPM\Cache (*MABS scratch folder)`
 
