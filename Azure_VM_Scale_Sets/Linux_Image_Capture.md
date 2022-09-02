@@ -12,4 +12,4 @@ Now VM is ready for generalizing
 # halt
 ```
 
-*halt* this will shutdown the VM
+**halt** this will shutdown the VM
