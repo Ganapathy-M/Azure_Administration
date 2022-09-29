@@ -2,13 +2,15 @@
 
 
 
-Process Server - Compress and encrypted the replication datas send to the On-premises Master Target 
-Master Target Server - Store the replication datas
+**Process Server** - Compress and encrypted the replication datas send to the On-premises Master Target 
 
-Inplace Recovery - VMs are inplace (It only replicates the changes data)
-Outplace Recovery - VMs Completely Gone (It will create the VMDK file in Vcenter datasource)
+**Master Target Server** - Store the replication datas
 
-Old Stack required -  It Requires S2S VPN for Failback and Linux Master Target Server 
+**Inplace Recovery** - VMs are inplace (It only replicates the changes data)
 
-New Stack - We dont need S2S VPN and Linux Master Target Server
+**Outplace Recovery** - VMs Completely Gone (It will create the VMDK file in Vcenter datasource)
+
+**Old Stack** -  It Requires S2S VPN for Failback and Linux Master Target Server 
+
+**New Stack** - We dont need S2S VPN and Linux Master Target Server
 
