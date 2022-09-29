@@ -2,9 +2,9 @@
 
 ### Before upgrading the configuration server or operating system/kernel versions, verify if the target version is supported Site Recovery
 
-> Azure VM support
-> VMware/physical server support
-> Hyper-V support
+* Azure VM support
+* VMware/physical server support
+* Hyper-V support
 
 Eg: VMware/physical server support
 
