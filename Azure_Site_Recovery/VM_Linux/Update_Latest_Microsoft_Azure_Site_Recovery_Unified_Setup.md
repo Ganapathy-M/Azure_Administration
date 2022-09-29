@@ -12,6 +12,7 @@ OS/Kernel Version (**Ubuntu 20.04 LTS**/**Kernel Versions:5.4.0-122-generic**)
 
 ### Review available updates to find out what you want to upgrade.
 
+```
 **Supported release**   **Mobility service version**    **Kernel version**
     20.04 LTS                       9.50	            5.4.0-1080-azure
                                                         5.4.0-1083-azure
@@ -22,6 +23,7 @@ OS/Kernel Version (**Ubuntu 20.04 LTS**/**Kernel Versions:5.4.0-122-generic**)
                                                         5.4.0-120-generic
                                                         5.4.0-121-generic
                                                         5.4.0-122-generic
+```
  
 You run update rollups to update the configuration server. Updates can be applied for up to N-4 versions. For example:
 
